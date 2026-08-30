@@ -60,3 +60,4 @@ This infrastructure is governed by the **Apache License 2.0**. We maintain a tra
   <b>© 2026 KYXGO TECHNOLOGY | ESTABLISHED IN HARIDWAR, INDIA</b><br>
   <i>"Engineered for the Next Billion Bits."</i>
 </p>
+Official Website: [Kyxgo Technology](https://sites.google.com/view/kyxgo/technology/)
