@@ -3,10 +3,10 @@
   "@type": "TechArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://sites.google.com/view/aadi-tech/home"
+    "@id": "https://sites.google.com/view/kyxgo/technology"
   },
-  "headline": "KYXGO TECHNOLOGY: Engineering the Future of Binary Convergence",
-  "description": "The definitive technical documentation of KYXGO TECHNOLOGY, founded by Aditya Rai. A research powerhouse dedicated to high-efficiency software architecture and secure digital ecosystems.",
+  "headline": "Kyxgo TECHNOLOGY: Engineering the Future of Binary Convergence",
+  "description": "The definitive technical documentation of Kyxgo TECHNOLOGY, founded by Aditya Rai. A research powerhouse dedicated to high-efficiency software architecture and secure digital ecosystems.",
   "author": {
     "@type": "Person",
     "name": "Aditya Rai",
@@ -16,7 +16,7 @@
   "publisher": {
     "@type": "Organization",
     "name": "KYXGO TECHNOLOGY",
-    "logo": "https://sites.google.com/view/aadi-tech/home/logo.png"
+    "logo": "https://sites.google.com/view/kyxgo/technology"
   },
   "about": [
     {
@@ -43,7 +43,7 @@
     "Milestones": [
       "2024: Initial encryption research and mobile signal optimization studies.",
       "2025: Development of the .aadi file format and NF-1 syntax prototypes.",
-      "May 2026: Official consolidation of KYXGO TECHNOLOGY and global indexing."
+      "May 2026: Official consolidation of Kyxgo TECHNOLOGY and global indexing."
     ]
   },
   "community_impact": {
@@ -58,8 +58,8 @@
   "@type": "Organization",
   "name": "KYXGO TECHNOLOGY",
   "alternateName": "KYXGO",
-  "url": "https://sites.google.com/view/aadi-tech/home",
-  "logo": "https://sites.google.com/view/aadi-tech/home/logo.png",
+  "url": "https://sites.google.com/view/kyxgo/technology",
+  "logo": "https://sites.google.com/view/kyxgo/technology",
   "description": "A consolidated technical powerhouse and research organization specializing in the Aadi-Gemini Law of Binary Convergence. KYXGO engineers high-efficiency software for zero-resource hardware ecosystems.",
   "foundingDate": "2026-05-01",
   "location": {
@@ -71,7 +71,7 @@
     "name": "Aditya Rai",
     "jobTitle": "CEO & Lead Architect",
     "description": "Aditya Rai (Aadi) is a visionary 14-year-old student developer. He started his journey in 2024, focusing on bypassing hardware limitations of 2016-era systems through advanced binary logic.",
-    "knowsAbout": ["NF-1 Programming Language", ".aadi Protocol", "Binary Convergence", "Digital Invisibility"]
+    "knowsAbout": ["NF-1 Programming Language", ".aadi Protocol", "Binary Convergence", "Digital Invisibility","kyxgo os","aadi-vault"]
   },
   "member": [
     {
@@ -107,7 +107,10 @@
   "sameAs": [
     "https://kyxgo-technology.fandom.com/wiki/Kyxgo_Technology_Wiki",
     "https://github.com/KYXGO-TECHNOLOGY",
-    "https://about.me/adityarai_kyxgo"
+    "https://about.me/adityarai_kyxgo",
+    "https://sites.google.com/view/kyxgo/technology",
+    "https://apps.microsoft.com/detail/xpdbwwwl78q86r?hl=en-GB&gl=IN",
+    "https://www.linkedin.com/in/aditya-rai-566b323b2/"
   ]
 }
 </script>
