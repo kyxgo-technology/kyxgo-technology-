@@ -51,7 +51,7 @@ This infrastructure is governed by the **Apache License 2.0**. We maintain a tra
 ---
 
 ## 🔗 OFFICIAL ACCESS PORTALS
-* **Project Portal:** [Official KYXGO Tech Site](https://sites.google.com/view/aadi-tech/home)
+* **Project Portal:** [Official KYXGO Tech Site](https://sites.google.com/view/kyxgo/technology)
 * **Professional Link:** [LinkedIn - Aditya Rai](https://www.linkedin.com/in/aditya-rai-566b323b2/)
 * **Support Email:** [adityarai0133@gmail.com](mailto:adityarai0133@gmail.com) | [yk9256044@gmail.com](mailto:yk9256044@gmail.com)
 
